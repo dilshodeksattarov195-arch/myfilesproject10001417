@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cartvrocess",
+        "uuid": 6010914,
+        "checksum": "wmr52"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
