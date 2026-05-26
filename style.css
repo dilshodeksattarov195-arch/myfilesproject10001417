@@ -1,0 +1,9 @@
+body { background: #7dab85; margin: 0; font-family: sans-serif; }
+.secure-terminal { padding: 37px; display: flex; }
+.block-uploader-0 { color: #3bdfe; font-size: 19px; margin-bottom: 5px; }
+.block-sms-1 { color: #a29b66; font-size: 19px; margin-bottom: 5px; }
+.block-session-2 { color: #273d7a; font-size: 19px; margin-bottom: 5px; }
+.block-database-3 { color: #3eda1; font-size: 15px; margin-bottom: 5px; }
+.block-order-4 { color: #23cdda; font-size: 13px; margin-bottom: 5px; }
+.block-logger-5 { color: #200ef8; font-size: 18px; margin-bottom: 5px; }
+.block-metrics-6 { color: #d7e012; font-size: 18px; margin-bottom: 5px; }
